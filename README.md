@@ -1,2 +1,2 @@
 # Spr24-Soft-Body-Sim
-My real-time soft body simulation/animation toolset developed for graduate computational physics.
+My real-time soft body simulation/animation toolset developed for graduate computational physics. Uses Runge Kutta 4 and Symplectic Euler integration for the simulation loop for efficiency comparison's sake. Developed in C++ and OpenGL, heavily modified from a shadow map Learn OpenGL project, with added graphics code in addition to the simulation tools. Developed between March and May of 2024. 
